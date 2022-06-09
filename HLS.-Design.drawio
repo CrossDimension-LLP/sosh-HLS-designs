@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T12:47:12.445Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="xRc4IUum2EtJ00P_SSF5" version="18.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-09T13:19:45.622Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="LWzPCItrjTCzD_kGaGIb" version="18.2.1" type="github" pages="2">
   <diagram id="HpwX2peaphsE54BqD4FC" name="Service-Provider">
     <mxGraphModel dx="1038" dy="515" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -94,6 +94,9 @@
         <mxCell id="1uqkYKAXm2zkG8qwzOGw-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000CC;" edge="1" parent="1" source="1uqkYKAXm2zkG8qwzOGw-28" target="1uqkYKAXm2zkG8qwzOGw-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="K6QzcFKO8RTdxtuUx4My-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.607;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#0000CC;" edge="1" parent="1" source="1uqkYKAXm2zkG8qwzOGw-28" target="K6QzcFKO8RTdxtuUx4My-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1uqkYKAXm2zkG8qwzOGw-28" value="Registration Page" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="134" y="560" width="120" height="60" as="geometry" />
         </mxCell>
@@ -110,6 +113,14 @@
         </mxCell>
         <mxCell id="1uqkYKAXm2zkG8qwzOGw-36" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="200" y="512" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K6QzcFKO8RTdxtuUx4My-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#0000CC;" edge="1" parent="1" source="K6QzcFKO8RTdxtuUx4My-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="382" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6QzcFKO8RTdxtuUx4My-1" value="Current Address/ Manual Address registration" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="322" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

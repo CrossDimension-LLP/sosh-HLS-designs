@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T12:45:55.913Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="784eYIIt4MlagpCWh5UB" version="18.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-09T12:46:56.788Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="wyb66bUYtgovvyuhHO0G" version="18.2.1" type="github" pages="2">
   <diagram id="HpwX2peaphsE54BqD4FC" name="Service-Provider">
     <mxGraphModel dx="1038" dy="515" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#9999FF" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="liWOwowC1bnSlr-KjyHl" name="HLS-Workflow">
+  <diagram id="liWOwowC1bnSlr-KjyHl" name="Registration-Service-Provider">
     <mxGraphModel dx="1038" dy="515" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />

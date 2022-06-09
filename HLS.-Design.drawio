@@ -1,81 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T12:46:56.788Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="wyb66bUYtgovvyuhHO0G" version="18.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-09T12:47:12.445Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="xRc4IUum2EtJ00P_SSF5" version="18.2.1" type="github" pages="2">
   <diagram id="HpwX2peaphsE54BqD4FC" name="Service-Provider">
-    <mxGraphModel dx="1038" dy="515" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#9999FF" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="515" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eXcymQM_I02Z2umomMd2-1" value="Mobile Device App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="56" y="28" width="694" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="128" y="110" width="268" height="450" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-5" value="Logo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="326" y="126" width="38" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-6" value="Welcome Screen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="166" y="200" width="196" height="258" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-8" value="&lt;u&gt;&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;Login with Mobile&lt;/b&gt;&lt;/font&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="206" y="484" width="116" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="452" y="112" width="268" height="450" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-10" value="Logo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="656" y="128" width="38" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="500" y="210" width="176" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-12" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FF6666;exitX=0.184;exitY=1.057;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="531.04" y="240.71000000000004" as="sourcePoint" />
-            <mxPoint x="532" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-14" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FF6666;exitX=0.184;exitY=1.057;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eXcymQM_I02Z2umomMd2-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="532.384" y="239.596" as="sourcePoint" />
-            <mxPoint x="533.0571941523467" y="239" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-15" value="+91" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="486" y="210" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-16" value="Available 2 numbers will be visible&lt;br&gt;&lt;br&gt;Choose One" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="524" y="256" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="126" y="594" width="268" height="450" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-18" value="Logo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="326" y="620" width="38" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="156" y="694" width="38" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="202" y="694" width="38" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="294" y="694" width="38" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="248" y="694" width="38" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="340" y="694" width="38" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-74/24/040_-_Tick-128.png;rounded=1;fontColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="240" y="810" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="454" y="594" width="268" height="450" as="geometry" />
-        </mxCell>
-        <mxCell id="eXcymQM_I02Z2umomMd2-27" value="Logo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="662" y="620" width="38" height="38" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

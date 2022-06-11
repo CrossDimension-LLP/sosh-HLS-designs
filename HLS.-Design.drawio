@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T04:59:42.224Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="8-LQKja7C-p-Nw728By4" version="19.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-11T05:03:42.298Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="n24JARFMc_wD-A4P0YgC" version="19.0.3" type="github" pages="2">
   <diagram id="HpwX2peaphsE54BqD4FC" name="Service-Provider">
     <mxGraphModel dx="1038" dy="515" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
         <mxCell id="K6QzcFKO8RTdxtuUx4My-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=35;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;fontColor=#006600;strokeColor=#000070;strokeWidth=3;" parent="1" source="K6QzcFKO8RTdxtuUx4My-4" target="1uqkYKAXm2zkG8qwzOGw-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K6QzcFKO8RTdxtuUx4My-4" value="Core-data-microservice" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rounded=1;fontColor=#0000CC;" parent="1" vertex="1">
+        <mxCell id="K6QzcFKO8RTdxtuUx4My-4" value="Cross-data-microservice" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rounded=1;fontColor=#0000CC;" parent="1" vertex="1">
           <mxGeometry x="-342" y="212" width="182" height="90" as="geometry" />
         </mxCell>
         <mxCell id="K6QzcFKO8RTdxtuUx4My-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=101;exitDy=90;exitPerimeter=0;fontSize=14;fontColor=#006600;strokeColor=#000070;strokeWidth=3;" parent="1" source="K6QzcFKO8RTdxtuUx4My-6" edge="1">
@@ -153,7 +153,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K6QzcFKO8RTdxtuUx4My-6" value="Core- notification-microservice" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rounded=1;fontColor=#0000CC;" parent="1" vertex="1">
+        <mxCell id="K6QzcFKO8RTdxtuUx4My-6" value="Cross- notification-microservice" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rounded=1;fontColor=#0000CC;" parent="1" vertex="1">
           <mxGeometry x="-342" y="368" width="182" height="90" as="geometry" />
         </mxCell>
         <mxCell id="K6QzcFKO8RTdxtuUx4My-8" value="&lt;font color=&quot;#006600&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;GET&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000CC;strokeWidth=3;" parent="1" vertex="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T05:10:33.889Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="8qN7niODcika2tldigww" version="19.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-26T20:17:42.146Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="C14NU-iF7Fm0j8JndBMn" version="20.0.0" type="github" pages="3">
   <diagram id="HpwX2peaphsE54BqD4FC" name="Service-Provider">
     <mxGraphModel dx="1038" dy="515" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="liWOwowC1bnSlr-KjyHl" name="Registration-Service-Provider">
-    <mxGraphModel dx="1967" dy="515" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="515" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,6 +191,49 @@
         </mxCell>
         <mxCell id="TCFghpROOq1XKx87krvE-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.database;" parent="1" vertex="1">
           <mxGeometry x="-164" y="734" width="37.5" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2GdKdxAU5VHsAhD3g6h-" name="Booking Camunda Cockpit">
+    <mxGraphModel dx="1888" dy="515" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="12j4MU9hNg9WSy3kZZBd-1" value="COMPLETED" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="300" y="124" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12j4MU9hNg9WSy3kZZBd-2" value="PROVIDER_&lt;br&gt;NOT_FOUND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="242" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12j4MU9hNg9WSy3kZZBd-3" value="PROVIDER_&lt;br&gt;NOT_&lt;br&gt;RESPONDED" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="566" y="312" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12j4MU9hNg9WSy3kZZBd-4" value="YET_TO_&lt;br&gt;BE_SERVED" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="154" y="402" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12j4MU9hNg9WSy3kZZBd-5" value="&lt;span style=&quot;color: rgb(59, 65, 81); font-family: monospace; font-weight: 600; text-align: start; background-color: rgba(0, 0, 0, 0.07);&quot;&gt;ACCEPTED&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-72" y="138" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12j4MU9hNg9WSy3kZZBd-6" value="&lt;span style=&quot;color: rgb(59, 65, 81); font-family: monospace; font-weight: 600; text-align: start; background-color: rgba(0, 0, 0, 0.07);&quot;&gt;REFUND_&lt;br&gt;COMPLETE&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="634" y="136" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12j4MU9hNg9WSy3kZZBd-7" value="CANCELLED" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="462" y="166" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12j4MU9hNg9WSy3kZZBd-8" value="&lt;span style=&quot;color: rgb(59, 65, 81); font-family: monospace; font-weight: 600; text-align: start; background-color: rgba(0, 0, 0, 0.07);&quot;&gt;PAYMENT_&lt;br&gt;DONE&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="364" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12j4MU9hNg9WSy3kZZBd-9" value="&lt;span style=&quot;color: rgb(59, 65, 81); font-family: monospace; font-weight: 600; text-align: start; background-color: rgba(0, 0, 0, 0.07);&quot;&gt;REFUND_&lt;br&gt;INIT&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="616" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12j4MU9hNg9WSy3kZZBd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="12j4MU9hNg9WSy3kZZBd-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-32" y="134" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12j4MU9hNg9WSy3kZZBd-10" value="Customer Initiated a Booking" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-88" y="18" width="206" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

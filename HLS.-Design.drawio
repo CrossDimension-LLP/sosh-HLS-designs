@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T14:35:48.087Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="dlpvgtTp6s7149z7bonU" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-04T14:36:06.133Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ZkPJU53zsGE-HbysrjHh" version="20.0.4" type="github" pages="3">
   <diagram id="liWOwowC1bnSlr-KjyHl" name="Registration-Service-Provider">
     <mxGraphModel dx="1888" dy="515" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -187,7 +187,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="2GdKdxAU5VHsAhD3g6h-" name="Booking Camunda Cockpit">
+  <diagram id="2GdKdxAU5VHsAhD3g6h-" name="Booking Status Cockpit">
     <mxGraphModel dx="1888" dy="515" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
